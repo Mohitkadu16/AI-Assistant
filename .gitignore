@@ -1,0 +1,114 @@
+# ============================================================
+# Personal AI Workspace — .gitignore
+# ============================================================
+
+# ---------------------------
+# ⚠️  SECURITY — NEVER COMMIT
+# ---------------------------
+.env
+*.key
+*.pem
+secrets.json
+
+# ---------------------------
+# 🐍 Python
+# ---------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+MANIFEST
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# ---------------------------
+# 🧪 Testing & Type Checking
+# ---------------------------
+.pytest_cache/
+.mypy_cache/
+.tox/
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+
+# ---------------------------
+# 📁 User Data (keep private)
+# ---------------------------
+# Chat history — contains personal conversations
+data/chats/
+data/chats/*.json
+
+# Uploaded files — user uploads, can be large
+data/uploads/
+
+# Workspace data
+workspace_data/
+
+# Knowledge base (may contain personal context)
+src/knowledge/
+
+# Vector DB (can be large + personal)
+src/vector_db/
+
+# ---------------------------
+# 🔧 Dev / Patch Scripts
+# ---------------------------
+# These are one-off fix scripts, not needed in repo
+patch.py
+patch2.py
+patch_agents_clean.py
+patch_context.py
+patch_context_fix.py
+update_model.py
+
+# ---------------------------
+# 🗂️ IDE & Editors
+# ---------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.cursor/
+*.code-workspace
+
+# ---------------------------
+# 💻 OS Generated
+# ---------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ---------------------------
+# 📦 Logs & Temp Files
+# ---------------------------
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+~$*
+
+# ---------------------------
+# 📌 Notes to self (keep local)
+# ---------------------------
+TODO.md
+NOTES.md
+scratch/

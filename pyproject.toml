@@ -1,0 +1,39 @@
+[project]
+name = "ai-workspace"
+version = "0.1.0"
+description = "A production-ready personal AI workspace with a modular multi-agent system."
+authors = [
+    { name = "Mohit Kadu", email = "[EMAIL_ADDRESS]" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "google-genai>=0.2.2",
+    "pydantic>=2.5.0",
+    "pydantic-settings>=2.1.0",
+    "python-dotenv>=1.0.0",
+    "requests>=2.31.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "mypy>=1.8.0"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "-ra -q"
+testpaths = [
+    "tests",
+]
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
