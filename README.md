@@ -376,7 +376,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 |:---|:---:|:---:|
 
 
-> *"Not just an AI assistant — your Personal AI Assistant."*
+> *"Not just an multi-agent-system — your Personal AI Assistant."*
 
 **⭐ If this project helped you, please give it a star! It means a lot ⭐**
 </div>
