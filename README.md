@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Personal+AI+Workspace;Your+Personal+AI+Operating+System;11+Agents+%7C+One+Interface" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Personal+AI+Workspace;Your+Personal+AI+Assistant;11+Agents+%7C+One+Interface" alt="Typing SVG" />
 
 <br/>
 
 # 🤖 Personal AI Workspace
 
-### *Not just a chatbot — your own AI team, working 24/7 for you.*
+### _Not just a chatbot — your own AI team, working 24/7 for you._
 
 <br/>
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)|[![GitHub](https://img.shields.io/badge/GitHub-Mohitkadu16-181717?style=flat-square&logo=github)](https://github.com/Mohitkadu16)|
-| :------: | :------: |
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit_Kadu-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohit-kadu-856410243/)| 
-[![Gemini](https://img.shields.io/badge/Google-Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev) | [![Instagram](https://img.shields.io/badge/Instagram-loyalmanuka-E4405F?style=flat-square&logo=instagram)](https://instagram.com/loyalmanuka)|
-[![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)|[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Mohit_Kadu-4F46E5?style=flat-square)](https://mohitkadu-dev.vercel.app/)|
+|        [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)        |           [![GitHub](https://img.shields.io/badge/GitHub-Mohitkadu16-181717?style=flat-square&logo=github)](https://github.com/Mohitkadu16)           |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit_Kadu-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohit-kadu-856410243/) |
+|     [![Gemini](https://img.shields.io/badge/Google-Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)     |     [![Instagram](https://img.shields.io/badge/Instagram-loyalmanuka-E4405F?style=flat-square&logo=instagram)](https://instagram.com/loyalmanuka)     |
+|       [![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)        |           [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Mohit_Kadu-4F46E5?style=flat-square)](https://mohitkadu-dev.vercel.app/)            |
 
 </div>
 
@@ -28,10 +28,10 @@ Built specifically for **creators, builders & thinkers** — this system helps w
 
 <div align="center">
 
-| 💻 Programming | 🔬 Research | 📱 Social Media | ⚡ Electronics |
-|:-:|:-:|:-:|:-:|
-| 🎬 Video Editing | 📸 Photography | 📋 Planning | 🏢 Business |
-| 🧩 Memory | 🗺️ Project Mgmt | 💬 Chat | 🔀 Auto-Routing |
+|  💻 Programming  |   🔬 Research   | 📱 Social Media | ⚡ Electronics  |
+| :--------------: | :-------------: | :-------------: | :-------------: |
+| 🎬 Video Editing | 📸 Photography  |   📋 Planning   |   🏢 Business   |
+|    🧩 Memory     | 🗺️ Project Mgmt |     💬 Chat     | 🔀 Auto-Routing |
 
 </div>
 
@@ -138,20 +138,20 @@ You ──► Web UI ──► FastAPI ──► Router Agent ──► Speciali
 
 <div align="center">
 
-| Agent | Emoji | What it does |
-|:---|:---:|:---|
-| **Master Router** | 🔀 | Reads your request and routes it to the right agent |
-| **Planner** | 📋 | Project plans, roadmaps, strategy & schedules |
-| **Research** | 🔬 | Deep research, summarization, fact-checking |
-| **Coding** | 💻 | Code generation, debugging, architecture reviews |
-| **Electronics & PCB** | ⚡ | Arduino, circuits, PCB layout, component selection |
-| **Social Media** | 📱 | Posts, captions, hashtags, growth strategies |
-| **Video Editing** | 🎬 | Workflows, effects, scripts, color grading |
-| **Photography** | 📸 | Camera settings, composition, editing tips |
-| **StudKits Business** | 🏢 | Startup strategy & content for StudKits |
-| **Project Manager** | 🗺️ | Task tracking, timelines, progress reports |
-| **Memory** | 🧩 | Notes, reminders, context retention |
-| **General Chat** | 💬 | Everyday Q&A and conversation |
+| Agent                 | Emoji | What it does                                        |
+| :-------------------- | :---: | :-------------------------------------------------- |
+| **Master Router**     |  🔀   | Reads your request and routes it to the right agent |
+| **Planner**           |  📋   | Project plans, roadmaps, strategy & schedules       |
+| **Research**          |  🔬   | Deep research, summarization, fact-checking         |
+| **Coding**            |  💻   | Code generation, debugging, architecture reviews    |
+| **Electronics & PCB** |  ⚡   | Arduino, circuits, PCB layout, component selection  |
+| **Social Media**      |  📱   | Posts, captions, hashtags, growth strategies        |
+| **Video Editing**     |  🎬   | Workflows, effects, scripts, color grading          |
+| **Photography**       |  📸   | Camera settings, composition, editing tips          |
+| **StudKits Business** |  🏢   | Startup strategy & content for StudKits             |
+| **Project Manager**   |  🗺️   | Task tracking, timelines, progress reports          |
+| **Memory**            |  🧩   | Notes, reminders, context retention                 |
+| **General Chat**      |  💬   | Everyday Q&A and conversation                       |
 
 </div>
 
@@ -161,20 +161,20 @@ You ──► Web UI ──► FastAPI ──► Router Agent ──► Speciali
 
 ### ☁️ Cloud — Google Gemini API
 
-| Model | Speed | Use Case |
-|:---|:---:|:---|
-| `gemini-2.0-flash` | ⚡ Fast | Default — capable, free tier available |
-| `gemini-1.5-pro` | 🐢 Slower | High-context & complex reasoning |
-| `gemini-1.5-flash` | ⚡ Fast | Quick responses |
+| Model              |   Speed   | Use Case                               |
+| :----------------- | :-------: | :------------------------------------- |
+| `gemini-2.0-flash` |  ⚡ Fast  | Default — capable, free tier available |
+| `gemini-1.5-pro`   | 🐢 Slower | High-context & complex reasoning       |
+| `gemini-1.5-flash` |  ⚡ Fast  | Quick responses                        |
 
 ### 🖥️ Local — Ollama (Runs offline, zero cost)
 
-| Model | Type | Use Case |
-|:---|:---:|:---|
-| `qwen2.5:7b` | 💬 Text | General tasks — recommended default |
-| `qwen2.5-coder:7b` | 💻 Code | Code generation & debugging |
-| `llava` | 🖼️ Vision | Image analysis (multimodal) |
-| `llama3.2` | 💬 Text | General purpose |
+| Model              |   Type    | Use Case                            |
+| :----------------- | :-------: | :---------------------------------- |
+| `qwen2.5:7b`       |  💬 Text  | General tasks — recommended default |
+| `qwen2.5-coder:7b` |  💻 Code  | Code generation & debugging         |
+| `llava`            | 🖼️ Vision | Image analysis (multimodal)         |
+| `llama3.2`         |  💬 Text  | General purpose                     |
 
 > 💡 **Pro Tip:** Set `LLM_PROVIDER=ollama` in `.env` to run **100% locally** with zero API cost!
 
@@ -184,16 +184,16 @@ You ──► Web UI ──► FastAPI ──► Router Agent ──► Speciali
 
 <div align="center">
 
-| Layer | Technology |
-|:---|:---|
-| 🐍 **Backend** | Python 3.10+, FastAPI, Uvicorn |
-| 🤖 **AI / LLM** | Google Gemini API, Ollama |
-| 🎨 **Frontend** | HTML5, CSS3 (Glassmorphism), Vanilla JS |
-| 🗄️ **Storage** | JSON flat files (chat sessions) |
-| 📄 **PDF Parsing** | PyPDF2 |
-| 📎 **File Uploads** | python-multipart, FastAPI UploadFile |
-| ⚙️ **Config** | python-dotenv, pydantic-settings |
-| 🧪 **Testing** | pytest, mypy |
+| Layer               | Technology                              |
+| :------------------ | :-------------------------------------- |
+| 🐍 **Backend**      | Python 3.10+, FastAPI, Uvicorn          |
+| 🤖 **AI / LLM**     | Google Gemini API, Ollama               |
+| 🎨 **Frontend**     | HTML5, CSS3 (Glassmorphism), Vanilla JS |
+| 🗄️ **Storage**      | JSON flat files (chat sessions)         |
+| 📄 **PDF Parsing**  | PyPDF2                                  |
+| 📎 **File Uploads** | python-multipart, FastAPI UploadFile    |
+| ⚙️ **Config**       | python-dotenv, pydantic-settings        |
+| 🧪 **Testing**      | pytest, mypy                            |
 
 </div>
 
@@ -234,6 +234,7 @@ pip install PyPDF2 python-multipart
 ```bash
 cp .env.example .env
 ```
+
 Open `.env` and fill in your values:
 
 ```env
@@ -263,11 +264,11 @@ python -m src.api
 
 The server binds to all network interfaces on port **8000**.
 
-| Device | URL |
-|:---|:---|
-| 🖥️ Your PC | `http://localhost:8000` |
+| Device                    | URL                           |
+| :------------------------ | :---------------------------- |
+| 🖥️ Your PC                | `http://localhost:8000`       |
 | 📱 Your Phone (same WiFi) | `http://<YOUR_LOCAL_IP>:8000` |
-| 📖 API Docs (Swagger) | `http://localhost:8000/docs` |
+| 📖 API Docs (Swagger)     | `http://localhost:8000/docs`  |
 
 > **Find your local IP:** Run `ipconfig` on Windows → look for `IPv4 Address`  
 > Example: `http://192.168.1.5:8000`
@@ -288,8 +289,8 @@ python -m src.main
 
 ### 📱 Mobile View
 
-| Mobile — Sidebar (Hamburger Menu) | Mobile — Chat Interface |
-|:---:|:---:|
+|           Mobile — Sidebar (Hamburger Menu)            |             Mobile — Chat Interface              |
+| :----------------------------------------------------: | :----------------------------------------------: |
 | ![Mobile Sidebar](docs/screenshots/mobile_sidebar.png) | ![Mobile Chat](docs/screenshots/mobile_chat.png) |
 
 ---
@@ -371,13 +372,11 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## [Mohit Kadu aka Loyalmanuka](https://github.com/Mohitkadu16)
 
+| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mohitkadu16) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-kadu-856410243/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/loyalmanuka) |
+| :---------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
 
-|[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mohitkadu16)|[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-kadu-856410243/)|[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/loyalmanuka)|
-|:---|:---:|:---:|
-
-
-> *"Not just an multi-agent-system — your Personal AI Assistant."*
+> _"Not just an multi-agent-system — your Personal AI Assistant."_
 
 **⭐ If this project helped you, please give it a star! It means a lot ⭐**
-</div>
 
+</div>
